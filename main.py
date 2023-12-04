@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 #https://realpython.com/beautiful-soup-web-scraper-python/
-SEASON="s23"
+SEASON="f13"
 URL = "https://scores.collegesailing.org/schools/"
 page = requests.get(URL)
 

@@ -6,3 +6,5 @@ To change the season change the value of SEASON to whatever season you want to l
 
 
 *Please note this is not a perfect measure of how many sailors are on each team becuase some teams/clubs may have members who do not compete in regattas.* 
+
+!(Number of Sailors Registered on TechScore (1).png?raw=true "Number of Sailors")
