@@ -1,0 +1,191 @@
+Classification,club_varsity,conference,school_name,Fall 2014,Spring 2015,Fall 2015,Spring 2016,Fall 2016,Spring 2017,Fall 2017,Spring 2018,Fall 2018,Spring 2019,Fall 2019,Spring 2020,Fall 2020,Spring 2021,Fall 2021,Spring 2022,Fall 2022,Spring 2023,Fall 2023
+,,,total,4958,5183,2688,2186,3566,5760,3757,4129,4784,5182,5578,5583,206,848,3314,2685,3229,3868,3253
+F,Club,MAISA,American University,13,15,5,4,11,27,16,20,21,21,18,18,0,0,10,4,3,15,17
+F,Club,MAISA,Catholic University of America,6,5,0,0,5,1,2,4,10,15,16,16,0,0,21,8,6,7,12
+CR,Varsity,MAISA,Christopher Newport University,20,20,13,9,18,20,20,21,31,31,39,34,0,16,15,13,17,18,13
+F,Club,MAISA,Colgate University,10,10,7,0,11,12,7,7,16,0,21,,,,,,,3,7
+R,Club,MAISA,Columbia University,30,31,17,14,20,31,30,31,28,46,74,78,0,0,19,8,6,11,
+CR,Varsity,MAISA,Cornell University,39,39,29,20,28,32,32,32,29,28,34,27,0,0,32,24,28,29,25
+CR,Club,MAISA,Drexel University,30,31,10,9,15,32,25,26,28,34,35,31,0,0,9,11,15,25,16
+CR,Club - Coached,MAISA,Fordham University,25,25,21,19,27,31,31,31,39,39,35,36,0,0,25,23,25,25,29
+R,Club,MAISA,Gannon University,,4,5,6,10,23,15,15,19,19,15,14,,4,9,5,7,8,
+CR,Club,MAISA,George Washington University,31,32,35,35,38,44,36,36,36,39,34,25,0,16,30,28,25,26,21
+CR,Varsity,MAISA,Georgetown University,44,45,33,35,38,51,45,55,54,59,70,67,0,24,44,36,44,44,49
+F,Club,MAISA,Hamilton College,1,1,0,0,0,13,21,26,29,29,25,25,0,0,10,0,11,11,9
+CR,Varsity,MAISA,Hampton University,22,21,6,7,9,21,14,13,12,16,14,15,0,0,9,8,5,7,4
+CR,Varsity,MAISA,Hobart and William Smith Colleges,25,25,20,19,28,37,41,41,44,43,42,42,0,25,31,31,28,29,35
+F,Club,MAISA,Indiana University of Pennsylvania,0,0,0,0,0,3,7,7,7,7,12,12,0,0,6,6,7,7,7
+F,Club,MAISA,Loyola University Maryland,9,9,11,0,16,24,12,18,16,16,17,15,0,0,9,1,10,10,10
+F,Club,MAISA,Mercyhurst University,0,0,0,0,0,0,0,0,6,6,12,12,0,0,3,0,0,0,
+F,Club,MAISA,Monmouth University,8,12,11,9,14,22,7,7,10,10,11,11,0,0,5,4,7,13,11
+F,Club,MAISA,Ocean County College,23,26,7,6,12,20,7,7,9,9,12,12,0,0,0,0,0,4,
+CR,Varsity,MAISA,Old Dominion University,34,36,26,23,24,28,30,30,19,19,20,18,0,16,19,18,20,22,28
+F,Club,MAISA,Penn State Behrend,0,0,4,0,0,6,0,0,9,10,6,6,0,0,4,0,9,10,12
+F,Club,MAISA,Penn State University,39,39,17,4,22,44,27,29,29,29,31,33,0,0,9,0,8,11,9
+R,Club,MAISA,Princeton University,44,46,20,21,29,42,37,41,51,54,55,56,0,0,27,24,27,33,22
+R,Club,MAISA,Queen's University,53,53,30,7,42,57,16,16,50,50,49,49,0,0,0,0,1,1,1
+F,Club,MAISA,Rochester Institute of Technology,29,26,16,0,16,45,15,16,26,27,24,22,0,0,13,8,22,22,29
+F,Club,MAISA,Rutgers University,20,24,6,8,11,37,22,23,35,36,38,38,0,0,1,0,6,14,9
+F,Club,MAISA,St. John's College,21,21,7,4,16,21,6,6,7,7,7,6,0,0,8,5,12,11,7
+CR,Varsity,MAISA,St. Mary's College of Maryland,41,41,25,25,25,38,24,24,26,26,28,30,0,18,23,20,28,28,31
+R,Club,MAISA,Stevens Institute of Technology,20,21,10,13,15,27,17,18,22,26,26,26,0,0,8,0,7,7,
+CR,Varsity,MAISA,SUNY Maritime College,47,48,33,19,41,79,56,59,68,68,70,67,0,7,28,24,25,25,38
+R,Club,MAISA,SUNY Stony Brook,32,35,25,16,32,46,22,28,25,26,29,29,0,8,23,17,21,21,15
+R,Club,MAISA,Syracuse University,70,74,14,12,29,49,17,24,31,34,49,49,0,0,10,8,23,33,29
+CR,Varsity,MAISA,U. S. Merchant Marine Academy,82,83,21,8,25,32,34,36,46,50,65,55,50,30,49,46,32,40,23
+F,Club,MAISA,U. S. Military Academy,22,22,18,9,18,31,29,29,35,36,31,31,0,0,12,2,22,22,23
+CR,Varsity,MAISA,U. S. Naval Academy,104,105,39,24,56,195,125,135,155,155,177,179,0,22,41,41,40,47,51
+F,Club,MAISA,University of Buffalo,21,21,16,12,15,22,10,10,8,8,9,9,0,0,2,0,0,0,
+R,Club,MAISA,University of Delaware,27,30,19,16,21,40,36,42,36,42,43,42,0,3,18,31,23,32,30
+R,Club,MAISA,University of Maryland,34,40,19,20,25,40,21,23,29,36,38,34,4,4,30,15,14,22,7
+F,Club,MAISA,University of Maryland/Baltimore County,18,20,6,7,13,19,7,7,13,19,20,20,0,0,13,7,3,3,1
+CR,Club - Coached,MAISA,University of Pennsylvania,33,37,23,13,29,35,26,27,29,29,28,30,0,0,24,20,25,25,26
+F,Club,MAISA,University of Pittsburgh,3,7,5,6,2,17,11,14,21,25,25,25,0,0,18,9,8,12,10
+F,Club,MAISA,University of Rochester,29,28,11,5,16,29,12,12,9,10,18,20,0,0,9,0,4,15,11
+F,Club,MAISA,University of Toronto,13,13,3,0,14,15,11,11,19,0,20,,,,,,,,3
+R,Club,MAISA,University of Virginia,51,52,23,19,34,56,30,31,37,39,42,46,0,0,26,20,29,32,22
+R,Club,MAISA,Villanova University,26,26,12,5,17,25,13,15,15,17,16,10,0,2,18,11,9,14,
+F,Club,MAISA,Virginia Tech,25,23,13,11,20,35,28,29,36,39,37,40,0,0,8,12,16,19,14
+R,Varsity,MAISA,Washington College,15,16,13,11,15,16,20,20,15,15,20,20,0,4,15,14,11,17,15
+R,Varsity,MAISA,Webb Institute,28,28,13,12,24,34,22,25,38,41,43,42,0,0,15,15,18,23,24
+R,Club,MAISA,William and Mary,55,55,26,19,40,61,45,56,45,51,56,56,0,6,16,19,17,24,17
+F,Club,MCSA,Cleveland State University,0,0,0,0,0,0,0,0,0,0,3,3,0,0,4,2,3,5,
+F,Club,MCSA,Denison University,23,24,7,8,11,17,9,9,6,,,,,,3,,,,
+F,Club,MCSA,Grand Valley State University,13,13,12,5,8,21,11,12,10,11,12,7,0,0,12,7,7,7,2
+F,Club,MCSA,Hillsdale College,0,0,0,0,0,5,11,13,14,16,21,22,0,0,3,0,4,5,6
+F,Club,MCSA,Hope College,24,26,21,13,20,37,13,14,16,17,25,25,0,1,19,10,10,16,14
+F,Club,MCSA,Indiana University,5,9,3,10,5,27,6,12,12,13,13,13,1,1,11,6,19,25,19
+F,Club,MCSA,Iowa State University,0,5,6,5,3,12,16,16,15,17,10,10,0,0,0,0,0,0,
+F,Club,MCSA,John Carroll University,0,0,0,0,0,0,0,5,11,11,20,20,0,0,0,0,0,0,
+F,Club,MCSA,Lake Forest College,6,6,7,5,9,14,7,7,4,6,10,10,0,0,4,0,8,7,12
+R,Club,MCSA,Marquette University,43,46,22,11,39,84,52,57,57,58,50,50,1,6,28,9,24,34,27
+R,Club,MCSA,Miami University,59,58,14,7,13,44,24,24,38,43,49,50,0,0,36,33,26,29,32
+F,Club,MCSA,Michigan State University,31,35,20,16,22,47,10,11,24,26,29,34,0,0,20,15,21,24,19
+F,Club,MCSA,Michigan Technological University,11,11,8,4,8,20,1,2,7,13,15,15,0,0,7,0,6,8,17
+F,Club,MCSA,Northern Michigan University,13,13,13,4,10,17,1,1,6,6,13,13,0,0,17,0,5,5,6
+CR,Club,MCSA,Northwestern University,64,64,24,30,38,74,57,59,74,77,82,83,0,0,31,18,14,42,32
+R,Club,MCSA,Ohio State University,39,38,23,14,28,63,42,51,53,62,66,68,3,3,40,25,8,15,26
+R,Club,MCSA,Ohio University,17,18,16,6,13,21,1,2,21,26,35,35,0,0,13,0,2,8,10
+R,Club,MCSA,Purdue University,31,28,0,0,9,25,20,22,42,44,39,44,0,0,28,18,21,29,27
+F,Club,MCSA,Saginaw Valley State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,7,8
+F,Club,MCSA,Saint Mary's College,0,0,0,0,0,0,0,0,0,4,8,8,0,0,5,7,7,7,5
+R,Club,MCSA,University of Chicago,20,22,14,6,13,29,12,13,15,22,19,19,0,0,0,0,1,12,15
+F,Club,MCSA,University of Cincinnati,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,10,
+R,Club,MCSA,University of Illinois,15,16,8,7,12,31,17,20,29,32,32,31,0,0,10,12,11,14,17
+F,Club,MCSA,University of Iowa,24,27,17,10,12,29,19,20,21,21,16,16,0,0,4,1,0,11,
+CR,Club,MCSA,University of Michigan,83,85,24,19,41,68,39,46,65,69,82,82,0,0,37,26,37,38,39
+F,Club - Coached,MCSA,University of Minnesota,23,28,19,16,18,31,22,24,32,32,29,29,0,6,8,6,5,5,10
+F,Club,MCSA,University of Nebraska Lincoln,0,0,0,0,0,0,0,0,4,16,16,16,0,0,0,0,0,1,6
+R,Club,MCSA,University of Notre Dame,77,95,15,27,32,72,27,39,41,47,42,42,6,5,26,25,12,18,18
+F,Club,MCSA,University of Saint Thomas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,6,12,6
+R,Club,MCSA,University of Toledo,15,15,5,13,9,19,21,27,23,26,19,19,0,0,5,3,2,9,1
+CR,Club - Coached,MCSA,University of Wisconsin,65,65,50,27,62,85,66,67,65,68,69,68,1,3,45,44,42,43,32
+F,Club,MCSA,Washington University,26,32,12,7,15,26,1,1,1,1,1,1,0,0,9,5,10,17,5
+F,Club,MCSA,Western Michigan University,23,24,12,8,21,31,20,20,26,29,35,34,0,0,20,12,15,15,15
+F,Club,NEISA,Amherst College,34,34,0,0,0,18,18,20,24,26,29,29,0,0,0,0,8,13,15
+R,Club,NEISA,Bates College,33,33,24,12,25,40,20,21,35,34,39,39,0,0,32,31,29,29,32
+R,Club,NEISA,Bentley University,20,15,2,7,10,24,8,15,18,19,20,20,0,0,11,6,12,12,4
+CR,Varsity,NEISA,Boston College,41,41,34,31,36,41,27,27,30,30,28,27,23,22,26,26,31,31,29
+CR,Club - Coached,NEISA,Boston University,46,49,36,28,46,51,37,40,32,35,41,38,0,0,13,8,31,35,32
+CR,Varsity,NEISA,Bowdoin College,29,28,27,24,30,34,30,32,35,35,37,37,0,9,35,28,37,37,24
+CR,Varsity,NEISA,Brown University,42,43,34,36,37,42,39,39,41,41,46,46,0,17,48,43,45,47,52
+CR,Varsity,NEISA,Connecticut College,29,29,23,20,33,39,30,30,32,33,45,47,24,25,34,33,32,34,29
+CR,Varsity,NEISA,Dartmouth College,41,41,26,24,30,31,24,26,29,29,33,32,0,22,35,31,38,35,30
+R,Club,NEISA,Fairfield University,18,16,15,16,25,39,21,22,28,30,31,30,1,1,17,7,11,15,14
+CR,Varsity,NEISA,Harvard University,46,47,29,28,37,43,43,44,43,54,45,45,0,0,37,34,35,46,32
+R,Varsity,NEISA,Maine Maritime Academy,25,25,14,6,20,31,15,15,28,29,46,47,0,2,33,28,35,35,33
+CR,Varsity,NEISA,Massachusetts Institute of Technology,62,62,34,26,38,48,39,42,51,53,57,55,0,0,41,36,28,30,29
+R,Varsity,NEISA,Massachusetts Maritime Academy,43,45,24,19,41,68,26,27,40,37,43,42,0,0,43,24,29,32,37
+R,Club,NEISA,McGill University,40,40,32,0,41,43,24,24,32,31,36,36,0,0,0,1,32,31,30
+R,Club,NEISA,Middlebury College,41,41,19,15,26,33,27,30,33,43,41,41,14,17,31,26,23,38,27
+CR,Club - Coached,NEISA,Northeastern University,52,54,36,26,49,56,35,41,38,45,45,47,0,0,36,31,29,32,37
+F,Club,NEISA,Olin College of Engineering,0,0,0,0,0,0,0,0,5,5,8,8,0,0,13,8,9,11,5
+CR,Varsity,NEISA,Roger Williams University,46,47,34,31,41,50,41,42,41,40,42,41,0,20,33,31,40,40,41
+R,Club,NEISA,Sacred Heart University,19,17,9,10,10,23,9,12,14,16,15,15,0,0,0,1,5,5,2
+CR,Varsity,NEISA,Salve Regina University,21,21,15,14,22,31,24,24,31,31,36,36,0,16,21,18,22,24,17
+CR,Varsity,NEISA,Tufts University,63,63,60,106,66,74,53,63,75,81,72,71,2,45,63,55,55,85,55
+CR,Varsity,NEISA,U. S. Coast Guard Academy,61,65,33,31,55,78,50,51,56,57,67,69,53,51,46,58,52,63,58
+F,Club,NEISA,University of Connecticut,54,54,23,8,37,66,35,38,23,27,30,34,6,7,13,12,9,17,12
+F,Club,NEISA,University of Maine,0,0,0,0,0,0,0,0,7,11,9,9,0,0,10,0,0,0,
+F,Club,NEISA,University of Massachusetts at Amherst,0,0,10,8,7,27,47,52,60,72,81,83,2,9,25,17,29,35,21
+F,Club,NEISA,University of Massachusetts at Dartmouth,15,21,8,9,8,15,7,9,8,9,10,10,1,1,9,9,13,13,7
+R,Club,NEISA,University of New Hampshire,50,51,23,15,26,53,36,36,35,49,47,49,0,0,38,30,44,49,42
+CR,Club - Coached,NEISA,University of Rhode Island,69,71,40,34,50,61,49,50,54,57,65,66,0,47,48,44,51,52,44
+CR,Club - Coached,NEISA,University of Vermont,52,53,30,24,36,47,42,42,42,43,48,49,0,0,40,30,30,35,51
+R,Club,NEISA,Wentworth Institute of Technology,0,8,9,7,6,14,11,12,15,16,15,11,0,0,10,9,8,8,5
+F,Club,NEISA,Wesleyan University,38,39,19,12,19,30,9,9,22,22,16,16,0,0,12,6,8,8,9
+F,Club,NEISA,Williams College,24,25,11,0,10,26,9,12,15,16,16,16,0,0,12,9,21,21,21
+F,Club,NEISA,Worcester Polytechnic Institute,13,13,12,4,9,17,11,11,10,10,10,8,0,0,13,7,11,12,14
+CR,Varsity,NEISA,Yale University,30,30,24,26,26,28,32,33,32,32,38,40,0,1,33,35,35,35,30
+F,Club,PCCSC,Arizona State University,15,15,13,7,14,19,8,8,21,21,38,39,0,0,28,20,19,24,38
+CR,Club,PCCSC,Cal Poly University S.L.O.,51,54,27,26,39,66,55,58,82,87,97,99,0,0,55,38,48,60,50
+CR,Varsity,PCCSC,California Maritime Academy,36,36,9,0,23,34,17,19,25,27,30,31,0,0,25,20,27,30,27
+F,Club,PCCSC,California State University Channel Islands,15,16,5,6,7,13,9,10,9,12,12,17,0,0,12,12,12,15,11
+R,Club,PCCSC,Oregon State University,13,14,16,16,12,13,13,15,13,14,12,11,0,4,6,1,13,16,
+F,Club,PCCSC,Portland State University,11,10,4,2,2,5,0,0,0,0,1,1,0,0,15,11,9,9,
+R,Club,PCCSC,San Diego State University,0,0,0,0,0,8,17,19,17,19,23,21,0,0,19,16,15,20,3
+F,Club,PCCSC,Santa Clara University,35,33,17,12,15,31,21,21,24,24,20,20,0,0,0,4,2,2,
+CR,Varsity,PCCSC,Stanford University,36,37,26,26,31,35,26,28,28,29,26,26,0,19,20,20,20,21,19
+R,Club,PCCSC,University of British Columbia,40,41,15,13,22,50,42,44,55,54,46,47,0,0,0,0,12,14,1
+CR,Club,PCCSC,University of California at Berkeley,48,49,30,31,43,58,35,39,47,47,54,54,0,0,32,30,33,34,29
+R,Club,PCCSC,University of California at Davis,38,39,11,14,26,35,21,23,22,33,30,33,0,0,26,25,27,30,19
+R,Club,PCCSC,University of California at Irvine,25,30,5,10,18,30,12,13,30,30,31,33,0,0,19,8,7,11,22
+CR,Club,PCCSC,University of California at Los Angeles,59,59,30,28,49,67,40,47,46,46,59,63,0,0,36,27,39,43,37
+R,Club,PCCSC,University of California at San Diego,58,59,17,23,50,75,53,56,61,63,60,60,1,13,37,38,52,56,46
+CR,Club - Coached,PCCSC,University of California at Santa Barbara,64,64,34,34,38,56,44,46,39,41,43,43,0,13,32,28,26,31,23
+R,Club,PCCSC,University of California at Santa Cruz,14,13,11,12,17,24,20,21,23,25,26,26,0,0,30,32,33,38,27
+CR,Varsity,PCCSC,University of Hawaii,29,34,18,24,18,40,24,27,29,31,36,37,0,14,32,29,27,28,22
+F,Club,PCCSC,University of Oregon,34,34,8,10,7,19,10,13,10,11,11,11,0,9,7,3,10,15,16
+CR,Club - Coached,PCCSC,University of Southern California,25,29,13,13,20,23,25,28,29,28,21,21,0,0,8,9,14,14,14
+R,Club,PCCSC,University of Victoria,30,30,18,20,21,32,28,28,35,35,37,36,0,0,2,0,20,24,9
+R,Club,PCCSC,University of Washington,21,23,16,14,24,30,23,27,24,25,29,31,0,10,41,36,38,47,47
+R,Club,PCCSC,Western Washington University,58,56,19,14,38,42,25,29,35,43,51,52,0,0,30,24,36,38,29
+R,Club,PCCSC,,,,,,,,,,,,,,,,,,,,
+F,Club,SAISA,Auburn University,30,34,11,10,10,24,13,20,27,34,31,36,0,0,5,12,8,10,
+R,Club,SAISA,Clemson University,44,45,15,11,20,50,31,32,33,36,33,37,0,9,20,29,36,48,25
+CR,Varsity,SAISA,College of Charleston,55,67,41,29,45,74,55,58,65,70,70,71,1,29,52,55,66,70,60
+F,Club,SAISA,College of Coastal Georgia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,7,12
+F,Club,SAISA,Davidson College,18,15,9,3,5,38,2,4,16,16,19,19,0,0,1,0,0,0,
+R,Club,SAISA,Duke University,13,15,17,12,19,32,8,8,14,15,17,22,0,0,14,2,22,24,9
+F,Club,SAISA,East Carolina University,7,6,0,0,2,2,0,0,0,1,4,4,0,0,0,0,0,3,
+CR,Varsity,SAISA,Eckerd College,37,37,26,27,29,36,33,37,35,35,33,33,1,0,23,16,8,14,12
+R,Club,SAISA,Embry-Riddle University,9,9,6,0,0,13,6,7,6,12,14,16,0,10,19,34,39,47,51
+F,Club,SAISA,Florida Gulf Coast University,22,22,0,0,8,10,0,0,0,0,0,0,0,10,13,13,6,6,
+R,Club,SAISA,Florida Institute of Technology,5,1,0,0,0,0,0,0,1,1,1,10,0,7,6,11,15,16,14
+R,Club,SAISA,Florida State University,12,14,8,12,19,27,17,18,18,20,20,22,0,4,14,11,9,16,21
+,,SAISA,Furman University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+R,Club,SAISA,Georgia Institute of Technology,27,31,17,17,23,32,21,23,30,39,37,41,0,2,18,21,17,19,4
+F,Club,SAISA,Georgia Southern University,0,0,0,0,0,0,0,0,0,0,8,11,0,0,5,0,0,0,
+CR,Varsity,SAISA,Jacksonville University,38,40,17,15,26,26,28,32,39,39,44,44,0,35,40,28,31,38,34
+F,Club,SAISA,New College of Florida,39,39,14,4,17,24,0,0,4,8,8,9,0,0,0,0,2,2,
+CR,Club - Coached,SAISA,North Carolina State University,33,38,24,19,26,39,40,49,45,51,54,56,0,18,28,28,27,28,32
+F,Club,SAISA,Palm Beach Atlantic University,0,0,0,0,0,0,0,0,0,8,14,14,0,3,14,8,8,10,10
+R,Varsity,SAISA,Rollins College,13,16,4,10,16,17,18,19,26,31,36,39,0,7,18,20,22,22,16
+,,SAISA,Sewanee University of the South,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,
+R,Club - Coached,SAISA,The Citadel,17,15,5,0,8,12,0,0,0,0,0,0,2,9,13,13,22,26,17
+F,Club,SAISA,University of Central Florida,0,0,0,0,0,0,0,0,0,5,9,14,0,0,0,1,14,15,5
+R,Club,SAISA,University of Florida,40,42,16,13,29,44,23,24,31,34,34,34,0,0,37,9,0,12,16
+R,Club,SAISA,University of Georgia,24,27,14,12,21,31,9,22,32,36,30,31,1,2,17,23,15,20,8
+CR,Club,SAISA,University of Miami,28,30,19,17,20,35,18,20,27,29,31,33,0,9,32,32,27,28,26
+R,Club,SAISA,University of North Carolina,18,24,0,0,3,9,7,9,11,11,16,16,0,4,9,9,16,22,22
+R,Club,SAISA,University of North Carolina at Wilmington,16,16,12,10,10,20,13,13,15,17,20,23,0,1,24,15,38,42,33
+R,Club,SAISA,University of South Carolina,6,15,15,11,16,40,12,12,15,26,21,21,0,0,10,19,9,19,12
+CR,Varsity,SAISA,University of South Florida,54,55,37,23,46,62,39,44,43,45,48,51,0,12,29,32,32,37,36
+F,Club,SAISA,University of Tennessee,16,19,5,6,7,16,9,9,13,14,12,12,0,0,11,8,12,14,8
+F,Club,SAISA,Vanderbilt University,21,21,7,0,1,15,20,20,21,23,18,18,0,0,8,6,13,14,5
+F,Club,SAISA,Wake Forest University,0,0,0,0,0,4,4,4,5,11,20,20,0,0,10,13,26,28,6
+F,Club,SEISA,Baylor University,7,11,0,0,0,0,0,0,0,0,15,14,0,0,16,0,17,17,
+F,Club,SEISA,Case Western Reserve University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+F,Club,SEISA,Loyola University New Orleans,7,20,0,0,1,16,15,16,20,22,27,27,5,10,15,12,6,11,
+F,Club,SEISA,Rice University,18,18,7,13,16,23,2,5,4,4,6,9,0,0,0,0,0,6,8
+F,Club,SEISA,Texas A&M University,38,42,17,18,29,35,30,41,37,41,45,46,0,0,20,17,12,17,17
+R,Club - Coached,SEISA,Texas A&M University at Corpus Christi,1,4,4,5,13,16,4,8,9,12,14,16,0,0,8,12,10,12,8
+R,Club - Coached,SEISA,Texas A&M University at Galveston,35,40,22,23,48,67,30,40,49,55,49,45,3,8,18,17,18,24,15
+F,Club,SEISA,Texas Christian University,0,0,0,0,0,0,0,0,0,2,1,1,0,0,5,3,6,6,2
+CR,Varsity,SEISA,Tulane University,39,38,24,17,40,46,46,48,64,66,47,46,0,22,27,25,33,34,37
+F,Club,SEISA,University of Central Oklahoma,14,14,6,6,10,14,7,8,6,7,9,8,0,0,6,5,13,13,16
+F,Club,SEISA,University of Kansas,4,7,0,0,7,4,1,1,0,0,0,0,0,0,16,8,14,14,8
+R,Club,SEISA,University of North Texas,17,14,0,0,0,14,14,16,16,23,21,22,0,0,10,9,6,10,5
+F,Club,SEISA,University of Oklahoma,21,21,1,0,0,0,0,,1,,,,,,,,,6,14
+F,Club,SEISA,University of South Alabama,7,7,0,0,2,2,0,0,0,0,0,0,0,0,5,1,0,0,1
+R,Club,SEISA,University of Texas,34,34,22,12,31,51,24,25,28,36,46,46,0,13,15,14,15,16,16
